@@ -3,3 +3,6 @@
 *.out
 *.exe
 
+# config files
+.vscode
+
